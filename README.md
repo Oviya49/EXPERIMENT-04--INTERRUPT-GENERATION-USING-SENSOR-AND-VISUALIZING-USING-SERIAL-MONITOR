@@ -257,7 +257,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  ![WhatsApp Image 2025-04-10 at 11 38 37_5ce8f1e8](https://github.com/user-attachments/assets/a8d7711f-495b-4b32-8596-c8ebbbddc9a4)
  ## Circuit board :
  
- 
+ ![image](https://github.com/user-attachments/assets/3f673f02-5f14-40fb-b737-cdd2acbcfdcf)
+
  
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
